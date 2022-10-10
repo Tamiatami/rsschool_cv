@@ -9,12 +9,12 @@
 * :point_right: ***LinkedIn:*** [Tamta Mtchedlidze](https://link-url-here.org)
 *  :point_right:***Github:*** [BlackDragon](https://link-url-here.org)
 
-##summary
-* Junior Web Developer I ,with more than 1  year of experience is seeking to obtain a creative and challenging position
+## :information_desk_person:summary
+Junior Web Developer I ,with more than 1  year of experience is seeking to obtain a creative and challenging position
 that utilizes current knowledge of web development and design. Having a positive outlook and am always willing
-to learn new traits. I work well both independently and as part of a team. *
+to learn new traits. I work well both independently and as part of a team. 
 
-## Education
+## :books:Education
 + ### International Black Sea University
    #### Business Management
     ##### 2020-present
@@ -38,7 +38,7 @@ to learn new traits. I work well both independently and as part of a team. *
 - Phyton
 -Angular
 
-## Courses and Bootamps:
+## :bulb:Courses and Bootamps: 
 - * Web Development course  at Freecodecamp*
 - * Full-stack Developer course at Bitoid*
 - * Web Develoment Bootcamp at Classcentral*
@@ -48,7 +48,7 @@ to learn new traits. I work well both independently and as part of a team. *
 
 
 ## :memo:Work experience
-### Full-stack Developer
+:heavy_check_mark:### Full-stack Developer
 Bitoid 
 ###### june 2022-september 2022
 
@@ -59,9 +59,10 @@ Bitoid
 -Build Databases *
 
 
-### Lead Front-end Developer
+### :heavy_check_mark:Lead Front-end Developer
 **start-up**
 ###### september 2022 -present
+Responsibilities:
 - Working closely with other developers
 - Creating and integrating user interfaces
 - Designing and developing new features and functionality for existing and new  systemsProviding technical support for existing applications, systems, and infrastructure as needed
@@ -69,12 +70,12 @@ Bitoid
 - Communicating with clients or other team members to clarify details about project objectives and requirements
 
 
-## languages
+##  :mortar_board:languages
 + **Georgian** - Native
 + **English** - Advanced
 + **Spanish** - Basic
 
-## Soft Skills
+##  :point_right:Soft Skills
 * Critical thinking and problem solving
 * Fast learner
 * Interpersonal skills
