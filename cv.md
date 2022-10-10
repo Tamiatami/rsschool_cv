@@ -5,7 +5,7 @@
 
 ## Contact Information
 *  :email:***Email:*** <20100321@ibsu.edu.ge>
-*  :telephone_receiver: ***Whatsapp:*** <+995598831156>
+*  :telephone_receiver: ***Whatsapp:*** +995598831156
 * :point_right: ***LinkedIn:*** [Tamta Mtchedlidze](https://link-url-here.org)
 *  :point_right:***Github:*** [BlackDragon](https://link-url-here.org)
 
@@ -49,7 +49,7 @@ to learn new traits. I work well both independently and as part of a team. *
 
 ## :memo:Work experience
 ### Full-stack Developer
-**Bitoid **
+Bitoid 
 ###### june 2022-september 2022
 
 *Responsibilities:
